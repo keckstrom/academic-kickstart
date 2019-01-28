@@ -56,7 +56,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Vermont"
   date_start = "2015-06-01"
-  date_end = "2018-5-20"
+  date_end = "2018-2-01"
   description = """
   Member of the Barlow Lab:
   
