@@ -19,27 +19,38 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Specialist"
+  company = "University of Vermont"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Vermont"
+  date_start = "2018-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include analysis of NGS data including:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * 16s rRNA microbiome 
+  * RNAseq of pure cultures and mixed communities
+  * Whole genome assembly and comparative genomics
+  * Tn-seq 
+  * Machine learning and feature selection
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Lab Research Technician"
+  company = "University of Vermont"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Vermont"
+  date_start = "2018-02-20"
+  date_end = "2018-10-01"
+  description = """Bioinformatics of various projects for the Wargo Lab."""
+
+[[experience]]
+  title = "Graduate Student"
+  company = "University of Vermont"
+  company_url = "https://projects.sare.org/sare_project/gne16-117/"
+  location = "Vermont"
+  date_start = "2015-06-01"
+  date_end = "2018-5-01"
+  description = """Msc in Animal and Veterinary Sciences, primarily the NE-SARE grant GNE16-117 utilizing shotgun metagenomics to describe the fate of antimicrobial resistance genes and mobile genetic elements during food waste composting."""
 
 +++
