@@ -10,18 +10,18 @@ role = "Research Specialist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "University of Vermont", url = "" }, {name="Bioinformatics Shared Resource",url=""} ]
+organizations = [ { name = "University of Vermont", url = "" }, {name="Bioinformatics Shared Resource",url="http://www.med.uvm.edu/uvmcancercenter/core-facilities/vigr/bsr"} ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include metagenomics, microbiology, and molecular genetics."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
+  "Bioinformatics",
+  "Metagenomics",
   "Information Retrieval"
 ]
 
