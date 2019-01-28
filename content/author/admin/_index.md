@@ -22,24 +22,19 @@ email = ""
 interests = [
   "Bioinformatics",
   "Metagenomics",
-  "Information Retrieval"
+  "Molecular Genetics"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MSc in Animal and Veterinary Sciences"
+  institution = "University of Vermont"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Animal and Veterinary Sciences"
+  institution = "University of Vermont"
+  year = 2015
 
 # Social/Academic Networking
 #
@@ -62,7 +57,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:korin.eckstrom@med.uvm.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
