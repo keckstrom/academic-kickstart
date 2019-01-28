@@ -42,15 +42,13 @@ date_format = "January 2006"
   location = "Vermont"
   date_start = "2018-02-20"
   date_end = "2018-10-01"
-  description = """Bioinformatics of various projects for the Wargo Lab."""
+  description = """
+  Bioinformatic support of various projects for the Wargo Lab:
   
-[[experience]]
-  title = "Graduate Student"
-  company = "University of Vermont"
-  company_url = ""
-  location = "Vermont"
-  date_start = "2015-06-01"
-  date_end = "2018-5-01"
-  description = """Msc in Animal and Veterinary Sciences."""
+  * RNAseq comparing *Stenotrophomonas maltophilia* under various media conditions
+  * Whole genome assembly of various microorganisms
+  * Metatranscriptomics of mixed community biofilms
+  """
+
 
 +++
