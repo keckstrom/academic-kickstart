@@ -47,12 +47,10 @@ date_format = "January 2006"
 [[experience]]
   title = "Graduate Student"
   company = "University of Vermont"
-  company_url = "https://projects.sare.org/sare_project/gne16-117/"
+  company_url = ""
   location = "Vermont"
   date_start = "2015-06-01"
   date_end = "2018-5-01"
   description = """Msc in Animal and Veterinary Sciences."""
-
-
 
 +++
