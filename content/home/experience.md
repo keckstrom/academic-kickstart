@@ -50,20 +50,6 @@ date_format = "January 2006"
   * Metatranscriptomics of mixed community biofilms
   """
 
-[[experience]]
-  title = "Graduate Student"
-  company = "University of Vermont"
-  company_url = ""
-  location = "Vermont"
-  date_start = "2015-06-01"
-  date_end = "2018-2-01"
-  description = """
-  Member of the Barlow Lab:
-  
-  * Shotgun metagenomic sequencing to describe the fate of ARGs and MGEs in food waste composting
-  * Creation of amplicon sequencing pipeline for the BoLA class I hypervariable region  
-  * Using Machine Learning algorithms for feature selection and prediction of MLST type in mastitis causing microorganisms
-  """
 
 
 
