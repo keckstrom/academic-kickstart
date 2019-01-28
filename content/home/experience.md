@@ -41,7 +41,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Vermont"
   date_start = "2018-02-20"
-  date_end = "2018-10-01"
+  date_end = "2018-09-30"
   description = """
   Bioinformatic support for the Wargo Lab:
   
