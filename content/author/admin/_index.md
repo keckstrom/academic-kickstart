@@ -83,6 +83,5 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Korin Eckstrom is a research specialist at the University of Vermont specializing in metagenomics and microbial genetics. Her research interests include how the microbial community and associated components at large interact with specific environments or disease states. Currently, she is a member of the Vermont Integrative Genomics Resource (VIGR) Bioinformatics Shared Resource, which provides support for research projects during all stages, from study design to deposition of results. 
+ 
