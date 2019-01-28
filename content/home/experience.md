@@ -51,9 +51,7 @@ date_format = "January 2006"
   location = "Vermont"
   date_start = "2015-06-01"
   date_end = "2018-5-01"
-  description = """Msc in Animal and Veterinary Sciences, primarily the NE-SARE grant GNE16-117 utilizing""" 
-  """shotgun metagenomics to describe the fate of antimicrobial resistance genes and mobile genetic""" 
-  """elements during food waste composting."""
+  description = """Msc in Animal and Veterinary Sciences."""
 
 
 
