@@ -83,5 +83,5 @@ interests = [
 
 +++
 
-Korin Eckstrom is a research specialist at the University of Vermont specializing in metagenomics and microbial genetics. Her research interests include how the microbial community and associated components at large interact with specific environments or disease states. Currently, she is a member of the Vermont Integrative Genomics Resource (VIGR) Bioinformatics Shared Resource, which provides support for research projects during all stages, from study design to deposition of results. 
+Currenly a research specialist at the University of Vermont specializing in metagenomics and microbial genetics. My research interests include how microbial communities and their associated components interact with specific environments or disease states. As a member of the Vermont Integrative Genomics Resource (VIGR) Bioinformatics Shared Resource, I provide support for research projects during all stages, from study design to deposition of results in public databases. 
  
