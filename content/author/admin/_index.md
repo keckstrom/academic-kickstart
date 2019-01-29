@@ -83,5 +83,5 @@ interests = [
 
 +++
 
-Currenly a research specialist at the University of Vermont specializing in metagenomics and microbial genetics. My research interests include how microbial communities and their associated components interact with specific environments or disease states. As a member of the Vermont Integrative Genomics Resource (VIGR) Bioinformatics Shared Resource, I provide support for research projects during all stages, from study design to deposition of results in public databases. 
+Currenly a research specialist at the University of Vermont specializing in metagenomics and microbial genetics. My research interests include how microbial communities and their associated components interact with specific environments or disease states. Specifically, my work has focused on leveraging the power of next generation sequencing (NGS) and bioinformatics as tools for exploring issues related to animal and environmental health. As a member of the Vermont Integrative Genomics Resource (VIGR) Bioinformatics Shared Resource, I provide support for research projects during all stages, from study design to deposition of results in public databases. 
  
