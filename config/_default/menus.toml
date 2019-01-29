@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Useful Tools"
-  url = "#tools"
+  url = "/tools/"
   weight = 5
 
 [[main]]
